@@ -5,5 +5,5 @@
 <h3 align="center">JAPAMI · Desarrollo de Software</h3>
 <p align="center">
   Junta de Agua Potable, Drenaje, Alcantarillado y Saneamiento del Municipio de Irapuato, Gto.<br>
-  <a href="[sitio oficial]">Sitio oficial</a> · <a href="mailto:[correo-del-area]">Contacto</a>
+  <a href="https://japami.gob.mx">Sitio oficial</a> · <a href="mailto:desarrollo@japami.gob.mx">Contacto</a>
 </p>
