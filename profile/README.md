@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/japami/.github/main/profile/logo.png" width="120" alt="JAPAMI">
+  <img src="https://raw.githubusercontent.com/japami/.github/main/profile/assets/LOGO_JAPAMI.png)" width="120" alt="JAPAMI">
 </p>
 
 <h3 align="center">JAPAMI · Desarrollo de Software</h3>
